@@ -42,12 +42,6 @@ class Challenges extends StatelessWidget {
                   ],
                   options: CarouselOptions(
                     height: 150.0,
-                    // pauseAutoPlayOnManualNavigate: true,
-                    // pauseAutoPlayOnTouch: true,
-                    // pauseAutoPlayInFiniteScroll: true,
-
-                    // reverse: false,
-
                     autoPlay: true,
                     autoPlayInterval: Duration(milliseconds: 4000),
                     autoPlayAnimationDuration: Duration(milliseconds: 4000),
@@ -90,12 +84,6 @@ class Challenges extends StatelessWidget {
                   ],
                   options: CarouselOptions(
                     height: 150.0,
-                    // pauseAutoPlayOnManualNavigate: true,
-                    // pauseAutoPlayOnTouch: true,
-                    // pauseAutoPlayInFiniteScroll: true,
-
-                    // reverse: false,
-
                     autoPlay: true,
                     autoPlayInterval: Duration(milliseconds: 3000),
                     autoPlayAnimationDuration: Duration(milliseconds: 3000),
@@ -114,12 +102,6 @@ class Challenges extends StatelessWidget {
                   ],
                   options: CarouselOptions(
                     height: 150.0,
-                    // pauseAutoPlayOnManualNavigate: true,
-                    // pauseAutoPlayOnTouch: true,
-                    // pauseAutoPlayInFiniteScroll: true,
-
-                    // reverse: false,
-
                     autoPlay: true,
                     autoPlayInterval: Duration(milliseconds: 2000),
                     autoPlayAnimationDuration: Duration(milliseconds: 2000),
